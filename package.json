@@ -1,0 +1,25 @@
+{
+  "name": "reaction-magento-import",
+  "version": "1.0.0",
+  "description": "Magento import plugin for Reaction Commerce.",
+  "main": "register.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loanlaux/reaction-magento-import.git"
+  },
+  "author": "Loan Laux <contact@loanlaux.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/loanlaux/reaction-magento-import/issues"
+  },
+  "homepage": "https://github.com/loanlaux/reaction-magento-import#readme",
+  "dependencies": {
+    "magentojs": "0.0.2"
+  }
+}
